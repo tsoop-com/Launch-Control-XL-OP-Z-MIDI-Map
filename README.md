@@ -1,6 +1,16 @@
 # Launch-Control-XL-OP-Z-MIDI-Map
  
- MIDI mappings for controlling the teenage engineering op-z with a Novation Launch Control XL
+MIDI mappings for controlling the teenage engineering op-z with a Novation Launch Control XL used by [tsoop](https://tsoop.ru) in live jams and recordings.
+
+## Videos of actual usage
+
+[tsoop - phub](https://www.youtube.com/watch?v=XolLvOAoejo)
+
+[tsoop - circle of joy jam](https://www.youtube.com/watch?v=h09USuZoeHM)
+
+[tsoop - seven teens](https://www.youtube.com/watch?v=h-Vwh9Jhr88)
+
+
 
 ## Flow
 
@@ -17,8 +27,10 @@ All 8 user pages are used
 
 ## Cheat-sheet
 
+[Download PDF](https://raw.githubusercontent.com/DeFUCC/Launch-Control-XL-OP-Z-MIDI-Map/master/more%20info/8p.pdf)
+
+
 ![](https://raw.githubusercontent.com/DeFUCC/Launch-Control-XL-OP-Z-MIDI-Map/master/more%20info/1sheet.png)
 
 ![](https://raw.githubusercontent.com/DeFUCC/Launch-Control-XL-OP-Z-MIDI-Map/master/more%20info/2sheet.png)
 
-[PDF](https://raw.githubusercontent.com/DeFUCC/Launch-Control-XL-OP-Z-MIDI-Map/master/more%20info/8p.pdf)
