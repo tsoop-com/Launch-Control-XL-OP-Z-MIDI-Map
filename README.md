@@ -12,9 +12,9 @@ MIDI mappings for controlling the teenage engineering op-z with a Novation Launc
 
 
 
-## Flow
+## Pages
 
-All 8 user pages are used
+All 8 user pages are used. The faders control the volume of the 8 tracks on all the pages. 
 
 1. Overview of all 8 tracks in stems
 2. Kick and snare
